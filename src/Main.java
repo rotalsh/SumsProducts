@@ -5,7 +5,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 public class Main {
 
-//    main function for output
+    // main function for output
     public static void main(String[] args) {
         NumberNumbers sums = new NumberNumbers();   // a NumberNumbers is HashMap<Integer, ArrayList<Integer>>
         NumberNumbers prods = new NumberNumbers();
